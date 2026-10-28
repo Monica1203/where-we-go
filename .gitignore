@@ -1,0 +1,14 @@
+# 依赖
+node_modules/
+
+# uni-app 编译产物
+dist/
+unpackage/
+
+# 开发者工具本地配置
+project.private.config.json
+.cloudbase/
+
+# 系统 / 编辑器
+.DS_Store
+*.log

@@ -1,0 +1,23 @@
+{
+  "name": "京约",
+  "appid": "",
+  "description": "北京情侣约会愿望清单小程序",
+  "versionName": "1.0.0",
+  "versionCode": "100",
+  "transformPx": false,
+  "mp-weixin": {
+    "appid": "",
+    "setting": {
+      "urlCheck": false,
+      "es6": true,
+      "postcss": true,
+      "minified": true
+    },
+    "usingComponents": true,
+    "permission": {
+      "scope.userLocation": {
+        "desc": "用于生成约会方案时定位你的当前位置"
+      }
+    }
+  }
+}

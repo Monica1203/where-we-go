@@ -1,0 +1,1890 @@
+{
+  "version": "1.0",
+  "city": "beijing",
+  "updatedAt": "2026-10-28",
+  "spots": [
+    {
+      "id": "bj-food-001",
+      "name": "四季民福（故宫店）",
+      "category": "food",
+      "subcategory": [
+        "老北京必吃",
+        "氛围感餐厅"
+      ],
+      "district": "西城",
+      "address": "北京市西城区故宫东门对面",
+      "latitude": 39.9242,
+      "longitude": 116.3973,
+      "costPerPerson": 160,
+      "duration": 90,
+      "openTime": "11:00-22:00",
+      "needReservation": true,
+      "reservationInfo": "周末建议17:00前取号，排队约40-60分钟",
+      "coupleRating": 4.5,
+      "bestTimeSlot": [
+        "lunch",
+        "dinner"
+      ],
+      "bestSeason": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter"
+      ],
+      "tips": [
+        "招牌烤鸭必点，薄饼卷烤鸭是经典吃法",
+        "故宫店位置热门，建议提前在大众点评取号",
+        "晚餐高峰排队较长，可考虑下午场"
+      ],
+      "relatedSpotIds": [
+        "bj-dest-001",
+        "bj-dest-006"
+      ]
+    },
+    {
+      "id": "bj-food-002",
+      "name": "南门涮肉（天坛店）",
+      "category": "food",
+      "subcategory": [
+        "老北京必吃"
+      ],
+      "district": "东城",
+      "address": "北京市东城区天坛南门",
+      "latitude": 39.8822,
+      "longitude": 116.4167,
+      "costPerPerson": 120,
+      "duration": 75,
+      "openTime": "11:00-22:00",
+      "needReservation": false,
+      "reservationInfo": "",
+      "coupleRating": 4.3,
+      "bestTimeSlot": [
+        "lunch",
+        "dinner"
+      ],
+      "bestSeason": [
+        "autumn",
+        "winter"
+      ],
+      "tips": [
+        "铜锅涮肉是老北京特色，冬天来最合适",
+        "手切鲜羊肉是招牌",
+        "天坛店环境比老城区其他分店好"
+      ],
+      "relatedSpotIds": [
+        "bj-dest-004"
+      ]
+    },
+    {
+      "id": "bj-food-003",
+      "name": "Metal Hands 咖啡（五道营店）",
+      "category": "food",
+      "subcategory": [
+        "胡同咖啡",
+        "下午茶"
+      ],
+      "district": "东城",
+      "address": "北京市东城区五道营胡同61号",
+      "latitude": 39.9463,
+      "longitude": 116.4037,
+      "costPerPerson": 50,
+      "duration": 60,
+      "openTime": "09:00-21:00",
+      "needReservation": false,
+      "reservationInfo": "",
+      "coupleRating": 4.7,
+      "bestTimeSlot": [
+        "afternoon"
+      ],
+      "bestSeason": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter"
+      ],
+      "tips": [
+        "靠窗位置拍照超好看",
+        "手冲单品咖啡是招牌",
+        "逛完五道营胡同顺路来一杯"
+      ],
+      "relatedSpotIds": [
+        "bj-dest-005",
+        "bj-dest-007"
+      ]
+    },
+    {
+      "id": "bj-food-004",
+      "name": "susu-小苏",
+      "category": "food",
+      "subcategory": [
+        "氛围感餐厅",
+        "Bistro"
+      ],
+      "district": "朝阳",
+      "address": "北京市朝阳区三里屯路",
+      "latitude": 39.9342,
+      "longitude": 116.4537,
+      "costPerPerson": 200,
+      "duration": 90,
+      "openTime": "11:00-14:00, 17:00-23:00",
+      "needReservation": true,
+      "reservationInfo": "建议提前1-2天预约",
+      "coupleRating": 4.6,
+      "bestTimeSlot": [
+        "lunch",
+        "dinner"
+      ],
+      "bestSeason": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter"
+      ],
+      "tips": [
+        "白天是咖啡厅，晚上变身小酒馆",
+        "创意菜品有话题感，适合初次约会",
+        "18:30有驻场歌手表演"
+      ],
+      "relatedSpotIds": [
+        "bj-dest-014",
+        "bj-dest-015"
+      ]
+    },
+    {
+      "id": "bj-food-005",
+      "name": "禄台 theBalcony",
+      "category": "food",
+      "subcategory": [
+        "氛围感餐厅",
+        "法式餐厅"
+      ],
+      "district": "朝阳",
+      "address": "北京市朝阳区亮马河路",
+      "latitude": 39.9456,
+      "longitude": 116.4498,
+      "costPerPerson": 300,
+      "duration": 120,
+      "openTime": "18:00-23:00",
+      "needReservation": true,
+      "reservationInfo": "必须提前预约，靠窗位需提前3天",
+      "coupleRating": 4.8,
+      "bestTimeSlot": [
+        "dinner"
+      ],
+      "bestSeason": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter"
+      ],
+      "tips": [
+        "亮马河畔夜景是最大卖点",
+        "法式菜品精致，适合纪念日",
+        "靠窗位置最抢手，务必提前预约"
+      ],
+      "relatedSpotIds": [
+        "bj-dest-010",
+        "bj-exp-006"
+      ]
+    },
+    {
+      "id": "bj-food-006",
+      "name": "胡大饭馆（簋街总店）",
+      "category": "food",
+      "subcategory": [
+        "深夜食堂",
+        "老北京必吃"
+      ],
+      "district": "东城",
+      "address": "北京市东城区东直门内大街（簋街）",
+      "latitude": 39.9378,
+      "longitude": 116.4267,
+      "costPerPerson": 150,
+      "duration": 90,
+      "openTime": "11:00-03:00",
+      "needReservation": false,
+      "reservationInfo": "周末建议提前在美团取号",
+      "coupleRating": 4.2,
+      "bestTimeSlot": [
+        "dinner",
+        "night"
+      ],
+      "bestSeason": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter"
+      ],
+      "tips": [
+        "簋街深夜氛围最好，晚10点后更有感觉",
+        "麻辣小龙虾是招牌",
+        "周末排队较长，建议美团提前取号"
+      ],
+      "relatedSpotIds": [
+        "bj-dest-005",
+        "bj-dest-007"
+      ]
+    },
+    {
+      "id": "bj-food-007",
+      "name": "烤肉季（什刹海店）",
+      "category": "food",
+      "subcategory": [
+        "老北京必吃"
+      ],
+      "district": "西城",
+      "address": "北京市西城区什刹海前海东沿14号",
+      "latitude": 39.9398,
+      "longitude": 116.3856,
+      "costPerPerson": 130,
+      "duration": 75,
+      "openTime": "11:00-21:30",
+      "needReservation": false,
+      "reservationInfo": "",
+      "coupleRating": 4.4,
+      "bestTimeSlot": [
+        "lunch",
+        "dinner"
+      ],
+      "bestSeason": [
+        "autumn",
+        "winter"
+      ],
+      "tips": [
+        "百年老字号，烤肉是招牌",
+        "什刹海店位置好，吃完可以逛后海",
+        "武食烤肉和烤羊肉是必点"
+      ],
+      "relatedSpotIds": [
+        "bj-dest-003",
+        "bj-exp-001"
+      ]
+    },
+    {
+      "id": "bj-food-008",
+      "name": "1886汽车餐厅",
+      "category": "food",
+      "subcategory": [
+        "氛围感餐厅"
+      ],
+      "district": "朝阳",
+      "address": "北京市朝阳区国贸CBD",
+      "latitude": 39.9087,
+      "longitude": 116.4607,
+      "costPerPerson": 180,
+      "duration": 90,
+      "openTime": "11:00-22:00",
+      "needReservation": false,
+      "reservationInfo": "",
+      "coupleRating": 4.3,
+      "bestTimeSlot": [
+        "lunch",
+        "dinner"
+      ],
+      "bestSeason": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter"
+      ],
+      "tips": [
+        "汽车主题装修，拍照出片",
+        "人均180在国贸CBD性价比高",
+        "泡菜意面和香肠拼盘是招牌"
+      ],
+      "relatedSpotIds": [
+        "bj-dest-014"
+      ]
+    },
+    {
+      "id": "bj-food-009",
+      "name": "CUPONE（望京店）",
+      "category": "food",
+      "subcategory": [
+        "胡同咖啡",
+        "氛围感餐厅"
+      ],
+      "district": "朝阳",
+      "address": "北京市朝阳区望京SOHO",
+      "latitude": 39.9957,
+      "longitude": 116.4743,
+      "costPerPerson": 115,
+      "duration": 75,
+      "openTime": "09:00-21:00",
+      "needReservation": false,
+      "reservationInfo": "",
+      "coupleRating": 4.4,
+      "bestTimeSlot": [
+        "lunch",
+        "afternoon"
+      ],
+      "bestSeason": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter"
+      ],
+      "tips": [
+        "落地窗可看望京SOHO景观",
+        "空间敞亮，适合拍照",
+        "brunch和咖啡都不错"
+      ],
+      "relatedSpotIds": []
+    },
+    {
+      "id": "bj-food-010",
+      "name": "黑天鹅法餐厅",
+      "category": "food",
+      "subcategory": [
+        "氛围感餐厅",
+        "法式餐厅"
+      ],
+      "district": "朝阳",
+      "address": "北京市朝阳区国贸",
+      "latitude": 39.9097,
+      "longitude": 116.4617,
+      "costPerPerson": 800,
+      "duration": 150,
+      "openTime": "18:00-22:00",
+      "needReservation": true,
+      "reservationInfo": "必须提前3-5天预约，可沟通纪念日布置",
+      "coupleRating": 4.9,
+      "bestTimeSlot": [
+        "dinner"
+      ],
+      "bestSeason": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter"
+      ],
+      "tips": [
+        "北京唯一米其林二星法餐厅",
+        "适合求婚、纪念日等重要场合",
+        "服务一流，可提前沟通特殊需求"
+      ],
+      "relatedSpotIds": [
+        "bj-dest-014"
+      ]
+    },
+    {
+      "id": "bj-food-011",
+      "name": "护国寺小吃",
+      "category": "food",
+      "subcategory": [
+        "老北京必吃"
+      ],
+      "district": "西城",
+      "address": "北京市西城区护国寺大街",
+      "latitude": 39.9367,
+      "longitude": 116.3727,
+      "costPerPerson": 30,
+      "duration": 45,
+      "openTime": "06:00-20:00",
+      "needReservation": false,
+      "reservationInfo": "",
+      "coupleRating": 4,
+      "bestTimeSlot": [
+        "morning",
+        "lunch"
+      ],
+      "bestSeason": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter"
+      ],
+      "tips": [
+        "老北京传统小吃集合店",
+        "豆汁、焦圈、驴打滚是经典",
+        "适合早餐或下午茶，不适合正式约会餐"
+      ],
+      "relatedSpotIds": [
+        "bj-dest-003"
+      ]
+    },
+    {
+      "id": "bj-food-012",
+      "name": "Berry Beans（南锣鼓巷店）",
+      "category": "food",
+      "subcategory": [
+        "胡同咖啡",
+        "下午茶"
+      ],
+      "district": "东城",
+      "address": "北京市东城区南锣鼓巷",
+      "latitude": 39.9372,
+      "longitude": 116.4032,
+      "costPerPerson": 45,
+      "duration": 60,
+      "openTime": "10:00-21:00",
+      "needReservation": false,
+      "reservationInfo": "",
+      "coupleRating": 4.3,
+      "bestTimeSlot": [
+        "afternoon"
+      ],
+      "bestSeason": [
+        "spring",
+        "summer",
+        "autumn"
+      ],
+      "tips": [
+        "胡同里的精品咖啡馆",
+        "手冲咖啡和甜点是特色",
+        "逛南锣鼓巷时顺路歇脚"
+      ],
+      "relatedSpotIds": [
+        "bj-dest-007"
+      ]
+    },
+    {
+      "id": "bj-food-013",
+      "name": "维兰西餐（万泉河店）",
+      "category": "food",
+      "subcategory": [
+        "氛围感餐厅"
+      ],
+      "district": "海淀",
+      "address": "北京市海淀区万泉河路",
+      "latitude": 39.9757,
+      "longitude": 116.3167,
+      "costPerPerson": 160,
+      "duration": 90,
+      "openTime": "11:00-22:00",
+      "needReservation": false,
+      "reservationInfo": "",
+      "coupleRating": 4.2,
+      "bestTimeSlot": [
+        "lunch",
+        "dinner"
+      ],
+      "bestSeason": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter"
+      ],
+      "tips": [
+        "老牌俄式西餐厅，环境安静古朴",
+        "适合初次约会，不会出错",
+        "红菜汤和罐焖牛肉是经典"
+      ],
+      "relatedSpotIds": [
+        "bj-dest-002"
+      ]
+    },
+    {
+      "id": "bj-food-014",
+      "name": "牛排家（国贸店）",
+      "category": "food",
+      "subcategory": [
+        "氛围感餐厅"
+      ],
+      "district": "朝阳",
+      "address": "北京市朝阳区国贸商城",
+      "latitude": 39.9082,
+      "longitude": 116.4612,
+      "costPerPerson": 300,
+      "duration": 100,
+      "openTime": "11:00-22:00",
+      "needReservation": true,
+      "reservationInfo": "建议提前1-2天预约",
+      "coupleRating": 4.5,
+      "bestTimeSlot": [
+        "dinner"
+      ],
+      "bestSeason": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter"
+      ],
+      "tips": [
+        "干式熟成牛排是招牌",
+        "可视熟成室自带话题感",
+        "适合牛排爱好者约会"
+      ],
+      "relatedSpotIds": [
+        "bj-dest-014"
+      ]
+    },
+    {
+      "id": "bj-food-015",
+      "name": "姚记炒肝（鼓楼店）",
+      "category": "food",
+      "subcategory": [
+        "老北京必吃"
+      ],
+      "district": "东城",
+      "address": "北京市东城区鼓楼湾",
+      "latitude": 39.9417,
+      "longitude": 116.3987,
+      "costPerPerson": 40,
+      "duration": 40,
+      "openTime": "06:00-20:00",
+      "needReservation": false,
+      "reservationInfo": "",
+      "coupleRating": 4,
+      "bestTimeSlot": [
+        "morning",
+        "lunch"
+      ],
+      "bestSeason": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter"
+      ],
+      "tips": [
+        "老北京炒肝和包子是招牌",
+        "适合早餐体验老北京味道",
+        "鼓楼店位置好，吃完可以逛鼓楼"
+      ],
+      "relatedSpotIds": [
+        "bj-dest-006",
+        "bj-dest-005"
+      ]
+    },
+    {
+      "id": "bj-dest-001",
+      "name": "故宫博物院",
+      "category": "destination",
+      "subcategory": [
+        "经典地标"
+      ],
+      "district": "东城",
+      "address": "北京市东城区景山前街4号",
+      "latitude": 39.9163,
+      "longitude": 116.3972,
+      "costPerPerson": 60,
+      "duration": 240,
+      "openTime": "08:30-17:00（16:00停止入馆）",
+      "needReservation": true,
+      "reservationInfo": "需提前7天在'故宫博物院'小程序预约，周一闭馆",
+      "coupleRating": 4.9,
+      "bestTimeSlot": [
+        "morning",
+        "afternoon"
+      ],
+      "bestSeason": [
+        "spring",
+        "autumn"
+      ],
+      "tips": [
+        "建议从午门进、神武门出，中轴线+东西六宫路线最经典",
+        "周一闭馆，注意安排",
+        "春秋季节最舒适，夏天较热"
+      ],
+      "photos": [],
+      "relatedSpotIds": [
+        "bj-dest-006",
+        "bj-food-001"
+      ]
+    },
+    {
+      "id": "bj-dest-002",
+      "name": "颐和园",
+      "category": "destination",
+      "subcategory": [
+        "经典地标",
+        "自然户外"
+      ],
+      "district": "海淀",
+      "address": "北京市海淀区新建宫门路19号",
+      "latitude": 39.9997,
+      "longitude": 116.2753,
+      "costPerPerson": 30,
+      "duration": 180,
+      "openTime": "06:30-18:00",
+      "needReservation": false,
+      "reservationInfo": "",
+      "coupleRating": 4.8,
+      "bestTimeSlot": [
+        "morning",
+        "afternoon"
+      ],
+      "bestSeason": [
+        "spring",
+        "summer",
+        "autumn"
+      ],
+      "tips": [
+        "昆明湖划船是经典体验",
+        "春天绣球花海很美",
+        "冬天昆明湖结冰可以滑冰车"
+      ],
+      "photos": [],
+      "relatedSpotIds": [
+        "bj-food-013"
+      ]
+    },
+    {
+      "id": "bj-dest-003",
+      "name": "什刹海",
+      "category": "destination",
+      "subcategory": [
+        "经典地标",
+        "浪漫夜景"
+      ],
+      "district": "西城",
+      "address": "北京市西城区什刹海",
+      "latitude": 39.9398,
+      "longitude": 116.3856,
+      "costPerPerson": 0,
+      "duration": 120,
+      "openTime": "全天开放",
+      "needReservation": false,
+      "reservationInfo": "",
+      "coupleRating": 4.7,
+      "bestTimeSlot": [
+        "afternoon",
+        "evening",
+        "night"
+      ],
+      "bestSeason": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter"
+      ],
+      "tips": [
+        "傍晚6-8点人少景美",
+        "可以租双人脚踏船游湖",
+        "银锭桥看日落是经典体验",
+        "冬天有什刹海滑冰场"
+      ],
+      "photos": [],
+      "relatedSpotIds": [
+        "bj-food-007",
+        "bj-dest-007",
+        "bj-exp-001"
+      ]
+    },
+    {
+      "id": "bj-dest-004",
+      "name": "天坛公园",
+      "category": "destination",
+      "subcategory": [
+        "经典地标"
+      ],
+      "district": "东城",
+      "address": "北京市东城区天坛东路甲1号",
+      "latitude": 39.8822,
+      "longitude": 116.4066,
+      "costPerPerson": 15,
+      "duration": 120,
+      "openTime": "06:00-21:00",
+      "needReservation": false,
+      "reservationInfo": "",
+      "coupleRating": 4.5,
+      "bestTimeSlot": [
+        "morning",
+        "afternoon"
+      ],
+      "bestSeason": [
+        "spring",
+        "autumn"
+      ],
+      "tips": [
+        "祈年殿是核心景点",
+        "早上去人少，空气好",
+        "公园面积大，建议穿舒适的鞋"
+      ],
+      "photos": [],
+      "relatedSpotIds": [
+        "bj-food-002"
+      ]
+    },
+    {
+      "id": "bj-dest-005",
+      "name": "南锣鼓巷",
+      "category": "destination",
+      "subcategory": [
+        "文艺打卡",
+        "胡同"
+      ],
+      "district": "东城",
+      "address": "北京市东城区南锣鼓巷",
+      "latitude": 39.9372,
+      "longitude": 116.4032,
+      "costPerPerson": 0,
+      "duration": 90,
+      "openTime": "全天开放（店铺约10:00-22:00）",
+      "needReservation": false,
+      "reservationInfo": "",
+      "coupleRating": 4.2,
+      "bestTimeSlot": [
+        "afternoon",
+        "evening"
+      ],
+      "bestSeason": [
+        "spring",
+        "summer",
+        "autumn"
+      ],
+      "tips": [
+        "主街商业化严重，建议拐进东西两侧胡同",
+        "有很多独立设计师小店",
+        "可以和五道营胡同串联逛"
+      ],
+      "photos": [],
+      "relatedSpotIds": [
+        "bj-dest-007",
+        "bj-food-003",
+        "bj-food-012"
+      ]
+    },
+    {
+      "id": "bj-dest-006",
+      "name": "景山公园",
+      "category": "destination",
+      "subcategory": [
+        "经典地标",
+        "浪漫夜景"
+      ],
+      "district": "西城",
+      "address": "北京市西城区景山西街44号",
+      "latitude": 39.9252,
+      "longitude": 116.3967,
+      "costPerPerson": 2,
+      "duration": 60,
+      "openTime": "06:00-21:00",
+      "needReservation": false,
+      "reservationInfo": "",
+      "coupleRating": 4.6,
+      "bestTimeSlot": [
+        "afternoon",
+        "evening"
+      ],
+      "bestSeason": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter"
+      ],
+      "tips": [
+        "万春亭是看日落和故宫全景的最佳位置",
+        "春天牡丹花开很美",
+        "爬山不高，10分钟可到山顶"
+      ],
+      "photos": [],
+      "relatedSpotIds": [
+        "bj-dest-001",
+        "bj-dest-003"
+      ]
+    },
+    {
+      "id": "bj-dest-007",
+      "name": "五道营胡同",
+      "category": "destination",
+      "subcategory": [
+        "文艺打卡",
+        "胡同"
+      ],
+      "district": "东城",
+      "address": "北京市东城区五道营胡同",
+      "latitude": 39.9463,
+      "longitude": 116.4037,
+      "costPerPerson": 0,
+      "duration": 80,
+      "openTime": "全天开放（店铺约10:00-21:00）",
+      "needReservation": false,
+      "reservationInfo": "",
+      "coupleRating": 4.5,
+      "bestTimeSlot": [
+        "afternoon"
+      ],
+      "bestSeason": [
+        "spring",
+        "summer",
+        "autumn"
+      ],
+      "tips": [
+        "比南锣鼓巷更安静、更有味道",
+        "有很多独立设计师小店和咖啡馆",
+        "可以和国子监街串联逛"
+      ],
+      "photos": [],
+      "relatedSpotIds": [
+        "bj-food-003",
+        "bj-dest-005"
+      ]
+    },
+    {
+      "id": "bj-dest-008",
+      "name": "798艺术区",
+      "category": "destination",
+      "subcategory": [
+        "文艺打卡"
+      ],
+      "district": "朝阳",
+      "address": "北京市朝阳区酒仙桥路4号",
+      "latitude": 39.9842,
+      "longitude": 116.4953,
+      "costPerPerson": 0,
+      "duration": 150,
+      "openTime": "10:00-18:00（部分展馆周一闭馆）",
+      "needReservation": false,
+      "reservationInfo": "",
+      "coupleRating": 4.6,
+      "bestTimeSlot": [
+        "afternoon"
+      ],
+      "bestSeason": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter"
+      ],
+      "tips": [
+        "周一多数展馆闭馆，注意安排",
+        "涂鸦墙和铁轨是经典拍照点",
+        "傍晚光影最美",
+        "可以配合草场地艺术区一起逛"
+      ],
+      "photos": [],
+      "relatedSpotIds": [
+        "bj-food-009"
+      ]
+    },
+    {
+      "id": "bj-dest-009",
+      "name": "红砖美术馆",
+      "category": "destination",
+      "subcategory": [
+        "文艺打卡"
+      ],
+      "district": "朝阳",
+      "address": "北京市朝阳区崔各庄乡何各庄村",
+      "latitude": 40.0052,
+      "longitude": 116.4853,
+      "costPerPerson": 80,
+      "duration": 120,
+      "openTime": "10:00-17:30（周一闭馆）",
+      "needReservation": false,
+      "reservationInfo": "",
+      "coupleRating": 4.7,
+      "bestTimeSlot": [
+        "afternoon"
+      ],
+      "bestSeason": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter"
+      ],
+      "tips": [
+        "红砖建筑本身就是艺术品，拍照超出片",
+        "浓浓的电影感",
+        "周一闭馆注意安排"
+      ],
+      "photos": [],
+      "relatedSpotIds": [
+        "bj-dest-008"
+      ]
+    },
+    {
+      "id": "bj-dest-010",
+      "name": "亮马河国际风情水岸",
+      "category": "destination",
+      "subcategory": [
+        "浪漫夜景"
+      ],
+      "district": "朝阳",
+      "address": "北京市朝阳区亮马河",
+      "latitude": 39.9456,
+      "longitude": 116.4498,
+      "costPerPerson": 0,
+      "duration": 60,
+      "openTime": "全天开放（游船约18:00-22:00）",
+      "needReservation": false,
+      "reservationInfo": "",
+      "coupleRating": 4.8,
+      "bestTimeSlot": [
+        "evening",
+        "night"
+      ],
+      "bestSeason": [
+        "summer",
+        "autumn"
+      ],
+      "tips": [
+        "夜游船是核心体验，5-10月运营",
+        "傍晚场次最抢手",
+        "沿河散步也很浪漫",
+        "周边有很多高端餐厅"
+      ],
+      "photos": [],
+      "relatedSpotIds": [
+        "bj-food-005",
+        "bj-exp-006"
+      ]
+    },
+    {
+      "id": "bj-dest-011",
+      "name": "奥林匹克森林公园",
+      "category": "destination",
+      "subcategory": [
+        "自然户外"
+      ],
+      "district": "朝阳",
+      "address": "北京市朝阳区北辰东路15号",
+      "latitude": 40.0207,
+      "longitude": 116.3917,
+      "costPerPerson": 0,
+      "duration": 120,
+      "openTime": "06:00-21:00",
+      "needReservation": false,
+      "reservationInfo": "",
+      "coupleRating": 4.3,
+      "bestTimeSlot": [
+        "morning",
+        "afternoon",
+        "evening"
+      ],
+      "bestSeason": [
+        "spring",
+        "summer",
+        "autumn"
+      ],
+      "tips": [
+        "北京城区最大的'绿肺'",
+        "适合夜跑、骑行、野餐",
+        "南门入口最热闹",
+        "冬天有冰雪嘉年华"
+      ],
+      "photos": [],
+      "relatedSpotIds": [
+        "bj-exp-002"
+      ]
+    },
+    {
+      "id": "bj-dest-012",
+      "name": "西什库教堂",
+      "category": "destination",
+      "subcategory": [
+        "文艺打卡"
+      ],
+      "district": "西城",
+      "address": "北京市西城区西什库大街33号",
+      "latitude": 39.9367,
+      "longitude": 116.3727,
+      "costPerPerson": 0,
+      "duration": 45,
+      "openTime": "05:00-11:30, 14:00-17:00",
+      "needReservation": false,
+      "reservationInfo": "",
+      "coupleRating": 4.5,
+      "bestTimeSlot": [
+        "afternoon"
+      ],
+      "bestSeason": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter"
+      ],
+      "tips": [
+        "中西合璧建筑，拍照很出片",
+        "路上有不少特色小店",
+        "适合情侣打卡"
+      ],
+      "photos": [],
+      "relatedSpotIds": [
+        "bj-dest-003"
+      ]
+    },
+    {
+      "id": "bj-dest-013",
+      "name": "杨梅竹斜街",
+      "category": "destination",
+      "subcategory": [
+        "文艺打卡",
+        "胡同"
+      ],
+      "district": "西城",
+      "address": "北京市西城区杨梅竹斜街",
+      "latitude": 39.8952,
+      "longitude": 116.3982,
+      "costPerPerson": 0,
+      "duration": 60,
+      "openTime": "全天开放",
+      "needReservation": false,
+      "reservationInfo": "",
+      "coupleRating": 4.4,
+      "bestTimeSlot": [
+        "afternoon"
+      ],
+      "bestSeason": [
+        "spring",
+        "summer",
+        "autumn"
+      ],
+      "tips": [
+        "现代和传统烟火气结合的胡同",
+        "有独特的品味与调性",
+        "比南锣鼓巷更小众安静"
+      ],
+      "photos": [],
+      "relatedSpotIds": [
+        "bj-dest-007"
+      ]
+    },
+    {
+      "id": "bj-dest-014",
+      "name": "三里屯",
+      "category": "destination",
+      "subcategory": [
+        "商圈"
+      ],
+      "district": "朝阳",
+      "address": "北京市朝阳区三里屯",
+      "latitude": 39.9342,
+      "longitude": 116.4537,
+      "costPerPerson": 0,
+      "duration": 120,
+      "openTime": "全天（店铺约10:00-22:00）",
+      "needReservation": false,
+      "reservationInfo": "",
+      "coupleRating": 4.3,
+      "bestTimeSlot": [
+        "afternoon",
+        "evening",
+        "night"
+      ],
+      "bestSeason": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter"
+      ],
+      "tips": [
+        "北京最时尚的商圈",
+        "购物、餐饮、酒吧一应俱全",
+        "晚上氛围更好",
+        "太古里是核心区域"
+      ],
+      "photos": [],
+      "relatedSpotIds": [
+        "bj-food-004",
+        "bj-food-010"
+      ]
+    },
+    {
+      "id": "bj-dest-015",
+      "name": "蓝色港湾",
+      "category": "destination",
+      "subcategory": [
+        "商圈",
+        "浪漫夜景"
+      ],
+      "district": "朝阳",
+      "address": "北京市朝阳区朝阳公园路6号",
+      "latitude": 39.9442,
+      "longitude": 116.4698,
+      "costPerPerson": 0,
+      "duration": 120,
+      "openTime": "10:00-22:00",
+      "needReservation": false,
+      "reservationInfo": "",
+      "coupleRating": 4.4,
+      "bestTimeSlot": [
+        "evening",
+        "night"
+      ],
+      "bestSeason": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter"
+      ],
+      "tips": [
+        "灯光节期间最美",
+        "有摩天轮可以坐",
+        "逛吃逛吃超开心",
+        "适合夜间约会"
+      ],
+      "photos": [],
+      "relatedSpotIds": [
+        "bj-dest-014"
+      ]
+    },
+    {
+      "id": "bj-dest-016",
+      "name": "首钢园",
+      "category": "destination",
+      "subcategory": [
+        "文艺打卡"
+      ],
+      "district": "石景山",
+      "address": "北京市石景山区石景山路68号",
+      "latitude": 39.9155,
+      "longitude": 116.1855,
+      "costPerPerson": 0,
+      "duration": 120,
+      "openTime": "全天开放",
+      "needReservation": false,
+      "reservationInfo": "",
+      "coupleRating": 4.5,
+      "bestTimeSlot": [
+        "afternoon",
+        "evening"
+      ],
+      "bestSeason": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter"
+      ],
+      "tips": [
+        "工业风拍照超出片",
+        "三高炉灯光秀很震撼",
+        "群明湖边看日落是经典体验",
+        "冬天有冰雪活动"
+      ],
+      "photos": [],
+      "relatedSpotIds": []
+    },
+    {
+      "id": "bj-dest-017",
+      "name": "东交民巷",
+      "category": "destination",
+      "subcategory": [
+        "文艺打卡",
+        "胡同"
+      ],
+      "district": "东城",
+      "address": "北京市东城区东交民巷",
+      "latitude": 39.9012,
+      "longitude": 116.4112,
+      "costPerPerson": 0,
+      "duration": 60,
+      "openTime": "全天开放",
+      "needReservation": false,
+      "reservationInfo": "",
+      "coupleRating": 4.3,
+      "bestTimeSlot": [
+        "afternoon"
+      ],
+      "bestSeason": [
+        "spring",
+        "summer",
+        "autumn"
+      ],
+      "tips": [
+        "北京最长的胡同",
+        "保留二十世纪初西洋风格建筑群",
+        "民国气息浓厚，适合拍照"
+      ],
+      "photos": [],
+      "relatedSpotIds": [
+        "bj-dest-004"
+      ]
+    },
+    {
+      "id": "bj-dest-018",
+      "name": "北京海洋馆",
+      "category": "destination",
+      "subcategory": [
+        "室内体验"
+      ],
+      "district": "海淀",
+      "address": "北京市海淀区高梁桥斜街乙18号",
+      "latitude": 39.9557,
+      "longitude": 116.3467,
+      "costPerPerson": 160,
+      "duration": 150,
+      "openTime": "09:00-17:00",
+      "needReservation": false,
+      "reservationInfo": "",
+      "coupleRating": 4.4,
+      "bestTimeSlot": [
+        "morning",
+        "afternoon"
+      ],
+      "bestSeason": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter"
+      ],
+      "tips": [
+        "北京三个海洋馆中面积最大",
+        "有很多海洋动物表演",
+        "适合室内约会，不受天气影响"
+      ],
+      "photos": [],
+      "relatedSpotIds": [
+        "bj-dest-002"
+      ]
+    },
+    {
+      "id": "bj-dest-019",
+      "name": "国家博物馆",
+      "category": "destination",
+      "subcategory": [
+        "室内体验"
+      ],
+      "district": "东城",
+      "address": "北京市东城区东长安街16号",
+      "latitude": 39.9052,
+      "longitude": 116.3982,
+      "costPerPerson": 0,
+      "duration": 180,
+      "openTime": "09:00-17:00（16:00停止入馆，周一闭馆）",
+      "needReservation": true,
+      "reservationInfo": "需提前7天预约，周一闭馆",
+      "coupleRating": 4.6,
+      "bestTimeSlot": [
+        "morning",
+        "afternoon"
+      ],
+      "bestSeason": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter"
+      ],
+      "tips": [
+        "免费但需预约",
+        "周一闭馆",
+        "馆藏丰富，建议预留3小时以上"
+      ],
+      "photos": [],
+      "relatedSpotIds": [
+        "bj-dest-001"
+      ]
+    },
+    {
+      "id": "bj-dest-020",
+      "name": "松美术馆",
+      "category": "destination",
+      "subcategory": [
+        "文艺打卡"
+      ],
+      "district": "顺义",
+      "address": "北京市顺义区天竺镇",
+      "latitude": 40.0552,
+      "longitude": 116.5553,
+      "costPerPerson": 100,
+      "duration": 120,
+      "openTime": "10:00-18:00（周一闭馆）",
+      "needReservation": false,
+      "reservationInfo": "",
+      "coupleRating": 4.6,
+      "bestTimeSlot": [
+        "afternoon"
+      ],
+      "bestSeason": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter"
+      ],
+      "tips": [
+        "白墙青松，环境清幽",
+        "很惊艳的美术馆",
+        "位置较偏，建议自驾或打车"
+      ],
+      "photos": [],
+      "relatedSpotIds": []
+    },
+    {
+      "id": "bj-dest-021",
+      "name": "烟袋斜街",
+      "category": "destination",
+      "subcategory": [
+        "文艺打卡",
+        "胡同"
+      ],
+      "district": "西城",
+      "address": "北京市西城区烟袋斜街",
+      "latitude": 39.9402,
+      "longitude": 116.3862,
+      "costPerPerson": 0,
+      "duration": 60,
+      "openTime": "全天开放（店铺约10:00-22:00）",
+      "needReservation": false,
+      "reservationInfo": "",
+      "coupleRating": 4.3,
+      "bestTimeSlot": [
+        "afternoon",
+        "evening"
+      ],
+      "bestSeason": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter"
+      ],
+      "tips": [
+        "什刹海旁的特色胡同",
+        "有很多特色小店和小吃",
+        "可以和什刹海串联逛"
+      ],
+      "photos": [],
+      "relatedSpotIds": [
+        "bj-dest-003"
+      ]
+    },
+    {
+      "id": "bj-dest-022",
+      "name": "鼓楼",
+      "category": "destination",
+      "subcategory": [
+        "经典地标",
+        "文艺打卡"
+      ],
+      "district": "东城",
+      "address": "北京市东城区地安门外大街",
+      "latitude": 39.9417,
+      "longitude": 116.3987,
+      "costPerPerson": 0,
+      "duration": 45,
+      "openTime": "09:00-17:00",
+      "needReservation": false,
+      "reservationInfo": "",
+      "coupleRating": 4.4,
+      "bestTimeSlot": [
+        "afternoon"
+      ],
+      "bestSeason": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter"
+      ],
+      "tips": [
+        "和钟楼相邻，可以一起逛",
+        "周边有很多胡同和咖啡馆",
+        "赵雷的《鼓楼》让这里更火了"
+      ],
+      "photos": [],
+      "relatedSpotIds": [
+        "bj-food-015",
+        "bj-dest-005"
+      ]
+    },
+    {
+      "id": "bj-exp-001",
+      "name": "什刹海滑冰",
+      "category": "experience",
+      "subcategory": [
+        "冬季限定",
+        "户外活动"
+      ],
+      "district": "西城",
+      "address": "北京市西城区什刹海",
+      "latitude": 39.9398,
+      "longitude": 116.3856,
+      "costPerPerson": 100,
+      "duration": 120,
+      "openTime": "约12月底-2月初，视天气开放",
+      "needReservation": false,
+      "reservationInfo": "仅冬季开放，关注官方公告",
+      "coupleRating": 4.8,
+      "bestTimeSlot": [
+        "afternoon"
+      ],
+      "bestSeason": [
+        "winter"
+      ],
+      "tips": [
+        "仅12月底至2月初开放，看天气情况",
+        "有冰车、冰自行车等多种选择",
+        "滑完冰可以去旁边的烤肉季吃烤肉"
+      ],
+      "relatedSpotIds": [
+        "bj-dest-003",
+        "bj-food-007"
+      ]
+    },
+    {
+      "id": "bj-exp-002",
+      "name": "奥森夜跑",
+      "category": "experience",
+      "subcategory": [
+        "户外活动"
+      ],
+      "district": "朝阳",
+      "address": "北京市朝阳区奥林匹克森林公园",
+      "latitude": 40.0207,
+      "longitude": 116.3917,
+      "costPerPerson": 0,
+      "duration": 90,
+      "openTime": "全天开放",
+      "needReservation": false,
+      "reservationInfo": "",
+      "coupleRating": 4.3,
+      "bestTimeSlot": [
+        "evening",
+        "night"
+      ],
+      "bestSeason": [
+        "spring",
+        "summer",
+        "autumn"
+      ],
+      "tips": [
+        "南门入口最热闹，有存包服务",
+        "夏天晚上去最舒服",
+        "可以带个野餐垫，跑完在草坪休息"
+      ],
+      "relatedSpotIds": [
+        "bj-dest-011"
+      ]
+    },
+    {
+      "id": "bj-exp-003",
+      "name": "首钢园看日落",
+      "category": "experience",
+      "subcategory": [
+        "浪漫体验"
+      ],
+      "district": "石景山",
+      "address": "北京市石景山区首钢园",
+      "latitude": 39.9155,
+      "longitude": 116.1855,
+      "costPerPerson": 0,
+      "duration": 90,
+      "openTime": "全天开放",
+      "needReservation": false,
+      "reservationInfo": "",
+      "coupleRating": 4.7,
+      "bestTimeSlot": [
+        "evening"
+      ],
+      "bestSeason": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter"
+      ],
+      "tips": [
+        "工业风背景看日落，拍照绝美",
+        "配合三高炉灯光秀更佳",
+        "群明湖畔是最佳观赏点"
+      ],
+      "relatedSpotIds": [
+        "bj-dest-016"
+      ]
+    },
+    {
+      "id": "bj-exp-004",
+      "name": "玉渊潭赏樱花",
+      "category": "experience",
+      "subcategory": [
+        "春季限定",
+        "户外活动"
+      ],
+      "district": "海淀",
+      "address": "北京市海淀区西三环中路10号",
+      "latitude": 39.9157,
+      "longitude": 116.3267,
+      "costPerPerson": 10,
+      "duration": 120,
+      "openTime": "06:00-21:00",
+      "needReservation": false,
+      "reservationInfo": "花期短，需关注官方公告",
+      "coupleRating": 4.8,
+      "bestTimeSlot": [
+        "morning",
+        "afternoon"
+      ],
+      "bestSeason": [
+        "spring"
+      ],
+      "tips": [
+        "3月底至4月中是花期",
+        "花期短，需关注官方公告",
+        "周末人多，建议工作日去",
+        "早樱和晚樱品种不同，观赏期更长"
+      ],
+      "relatedSpotIds": [
+        "bj-dest-002"
+      ]
+    },
+    {
+      "id": "bj-exp-005",
+      "name": "香山看红叶",
+      "category": "experience",
+      "subcategory": [
+        "秋季限定",
+        "户外活动"
+      ],
+      "district": "海淀",
+      "address": "北京市海淀区买卖街40号",
+      "latitude": 39.9932,
+      "longitude": 116.1857,
+      "costPerPerson": 10,
+      "duration": 180,
+      "openTime": "06:00-18:30",
+      "needReservation": false,
+      "reservationInfo": "红叶期周末限流，建议工作日前往",
+      "coupleRating": 4.6,
+      "bestTimeSlot": [
+        "morning"
+      ],
+      "bestSeason": [
+        "autumn"
+      ],
+      "tips": [
+        "10月中至11月初是最佳观赏期",
+        "周末人流极大，建议工作日前往或早上7点前到",
+        "可以顺便逛碧云寺"
+      ],
+      "relatedSpotIds": [
+        "bj-dest-002"
+      ]
+    },
+    {
+      "id": "bj-exp-006",
+      "name": "亮马河夜游船",
+      "category": "experience",
+      "subcategory": [
+        "夏季限定",
+        "浪漫体验"
+      ],
+      "district": "朝阳",
+      "address": "北京市朝阳区亮马河",
+      "latitude": 39.9456,
+      "longitude": 116.4498,
+      "costPerPerson": 150,
+      "duration": 60,
+      "openTime": "约5-10月运营，18:00-22:00",
+      "needReservation": true,
+      "reservationInfo": "建议提前1-2天购票，傍晚场次最抢手",
+      "coupleRating": 4.9,
+      "bestTimeSlot": [
+        "evening",
+        "night"
+      ],
+      "bestSeason": [
+        "summer"
+      ],
+      "tips": [
+        "5-10月运营",
+        "傍晚场次最抢手",
+        "沿河灯光很美",
+        "可以配合亮马河畔晚餐一起安排"
+      ],
+      "relatedSpotIds": [
+        "bj-dest-010",
+        "bj-food-005"
+      ]
+    },
+    {
+      "id": "bj-exp-007",
+      "name": "胡同骑行",
+      "category": "experience",
+      "subcategory": [
+        "户外活动"
+      ],
+      "district": "东城",
+      "address": "北京市东城区东交民巷出发",
+      "latitude": 39.9012,
+      "longitude": 116.4112,
+      "costPerPerson": 40,
+      "duration": 150,
+      "openTime": "全天可骑",
+      "needReservation": false,
+      "reservationInfo": "",
+      "coupleRating": 4.5,
+      "bestTimeSlot": [
+        "morning",
+        "afternoon"
+      ],
+      "bestSeason": [
+        "spring",
+        "summer",
+        "autumn"
+      ],
+      "tips": [
+        "推荐路线：东交民巷-台基厂-南池子",
+        "有共享单车和租车店",
+        "春天和秋天骑行最舒服"
+      ],
+      "relatedSpotIds": [
+        "bj-dest-017",
+        "bj-dest-001"
+      ]
+    },
+    {
+      "id": "bj-exp-008",
+      "name": "德云社听相声",
+      "category": "experience",
+      "subcategory": [
+        "文化体验"
+      ],
+      "district": "东城",
+      "address": "北京市东城区天桥剧场/三里屯德云社",
+      "latitude": 39.9342,
+      "longitude": 116.4537,
+      "costPerPerson": 200,
+      "duration": 150,
+      "openTime": "下午场/晚场，具体看排期",
+      "needReservation": true,
+      "reservationInfo": "提前3-5天购票，三里屯店最热门",
+      "coupleRating": 4.6,
+      "bestTimeSlot": [
+        "evening",
+        "night"
+      ],
+      "bestSeason": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter"
+      ],
+      "tips": [
+        "三里屯店最热门",
+        "提前3-5天购票",
+        "笑一场比吃一顿更增进感情"
+      ],
+      "relatedSpotIds": [
+        "bj-dest-014"
+      ]
+    },
+    {
+      "id": "bj-exp-009",
+      "name": "798看展+咖啡",
+      "category": "experience",
+      "subcategory": [
+        "文化体验"
+      ],
+      "district": "朝阳",
+      "address": "北京市朝阳区798艺术区",
+      "latitude": 39.9842,
+      "longitude": 116.4953,
+      "costPerPerson": 100,
+      "duration": 210,
+      "openTime": "10:00-18:00",
+      "needReservation": false,
+      "reservationInfo": "",
+      "coupleRating": 4.5,
+      "bestTimeSlot": [
+        "afternoon"
+      ],
+      "bestSeason": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter"
+      ],
+      "tips": [
+        "部分展览收费",
+        "周一多数馆闭馆",
+        "可以配合798周边咖啡馆一起"
+      ],
+      "relatedSpotIds": [
+        "bj-dest-008"
+      ]
+    },
+    {
+      "id": "bj-exp-010",
+      "name": "簋街深夜吃小龙虾",
+      "category": "experience",
+      "subcategory": [
+        "美食体验",
+        "深夜活动"
+      ],
+      "district": "东城",
+      "address": "北京市东城区东直门内大街（簋街）",
+      "latitude": 39.9378,
+      "longitude": 116.4267,
+      "costPerPerson": 150,
+      "duration": 90,
+      "openTime": "晚10点后氛围最好",
+      "needReservation": false,
+      "reservationInfo": "周末建议提前美团取号",
+      "coupleRating": 4.3,
+      "bestTimeSlot": [
+        "night"
+      ],
+      "bestSeason": [
+        "spring",
+        "summer",
+        "autumn"
+      ],
+      "tips": [
+        "晚10点后氛围最好",
+        "周末需排队，建议提前美团取号",
+        "麻辣小龙虾是必点"
+      ],
+      "relatedSpotIds": [
+        "bj-food-006"
+      ]
+    },
+    {
+      "id": "bj-exp-011",
+      "name": "南山滑雪",
+      "category": "experience",
+      "subcategory": [
+        "冬季限定",
+        "户外活动"
+      ],
+      "district": "密云",
+      "address": "北京市密云区河南寨镇圣水头村",
+      "latitude": 40.4857,
+      "longitude": 116.8853,
+      "costPerPerson": 300,
+      "duration": 360,
+      "openTime": "约11月底-次年3月初，08:30-17:00",
+      "needReservation": false,
+      "reservationInfo": "周末和节假日价格上浮",
+      "coupleRating": 4.5,
+      "bestTimeSlot": [
+        "morning",
+        "afternoon"
+      ],
+      "bestSeason": [
+        "winter"
+      ],
+      "tips": [
+        "含装备租赁",
+        "周末人多，建议工作日",
+        "距离市区较远，需预留交通时间"
+      ],
+      "relatedSpotIds": []
+    },
+    {
+      "id": "bj-exp-012",
+      "name": "双人陶艺DIY",
+      "category": "experience",
+      "subcategory": [
+        "室内体验",
+        "手作"
+      ],
+      "district": "东城",
+      "address": "北京市东城区五道营胡同",
+      "latitude": 39.9463,
+      "longitude": 116.4037,
+      "costPerPerson": 120,
+      "duration": 120,
+      "openTime": "10:00-20:00",
+      "needReservation": true,
+      "reservationInfo": "建议提前1天预约",
+      "coupleRating": 4.6,
+      "bestTimeSlot": [
+        "afternoon"
+      ],
+      "bestSeason": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter"
+      ],
+      "tips": [
+        "碰瓷儿陶艺DIY体验馆在五道营",
+        "可以一起做情侣杯、情侣碗",
+        "作品可以带走留念"
+      ],
+      "relatedSpotIds": [
+        "bj-dest-007",
+        "bj-food-003"
+      ]
+    },
+    {
+      "id": "bj-exp-013",
+      "name": "Live House 演出",
+      "category": "experience",
+      "subcategory": [
+        "文化体验",
+        "夜间活动"
+      ],
+      "district": "东城",
+      "address": "北京市东城区糖果TANGO/疆进酒等",
+      "latitude": 39.9372,
+      "longitude": 116.4032,
+      "costPerPerson": 150,
+      "duration": 120,
+      "openTime": "晚场为主，具体看排期",
+      "needReservation": true,
+      "reservationInfo": "热门演出需提前购票",
+      "coupleRating": 4.4,
+      "bestTimeSlot": [
+        "night"
+      ],
+      "bestSeason": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter"
+      ],
+      "tips": [
+        "疆进酒、糖果TANGO是北京知名Live House",
+        "提前关注演出排期",
+        "氛围很好，适合情侣"
+      ],
+      "relatedSpotIds": [
+        "bj-dest-005"
+      ]
+    },
+    {
+      "id": "bj-exp-014",
+      "name": "居庸关长城看花海",
+      "category": "experience",
+      "subcategory": [
+        "春季限定",
+        "户外活动"
+      ],
+      "district": "昌平",
+      "address": "北京市昌平区居庸关长城",
+      "latitude": 40.2897,
+      "longitude": 116.0683,
+      "costPerPerson": 0,
+      "duration": 150,
+      "openTime": "全天开放",
+      "needReservation": false,
+      "reservationInfo": "",
+      "coupleRating": 4.7,
+      "bestTimeSlot": [
+        "morning",
+        "afternoon"
+      ],
+      "bestSeason": [
+        "spring"
+      ],
+      "tips": [
+        "S2列车列车经过花海是经典拍照场景",
+        "3月底至4月中花期最美",
+        "可以配合爬居庸关长城"
+      ],
+      "relatedSpotIds": []
+    },
+    {
+      "id": "bj-exp-015",
+      "name": "颐和园昆明湖滑冰车",
+      "category": "experience",
+      "subcategory": [
+        "冬季限定",
+        "户外活动"
+      ],
+      "district": "海淀",
+      "address": "北京市海淀区颐和园昆明湖",
+      "latitude": 39.9997,
+      "longitude": 116.2753,
+      "costPerPerson": 80,
+      "duration": 90,
+      "openTime": "约12月底-2月初",
+      "needReservation": false,
+      "reservationInfo": "仅冬季冰面安全时开放",
+      "coupleRating": 4.6,
+      "bestTimeSlot": [
+        "afternoon"
+      ],
+      "bestSeason": [
+        "winter"
+      ],
+      "tips": [
+        "双人冰车最有约会感",
+        "仅冬季冰面安全时开放",
+        "可以配合颐和园一起逛"
+      ],
+      "relatedSpotIds": [
+        "bj-dest-002"
+      ]
+    }
+  ]
+}
